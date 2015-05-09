@@ -1,3 +1,5 @@
+# Knapsack
+
 # Rack
 
 Run `rackup` and compute.
